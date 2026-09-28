@@ -1,0 +1,5 @@
+Step 2: Clear the Prerequisites
+You don't need to be a senior engineer, but you must know the foundational tools that pipelines orchestrate:
+1. Git & GitHub/GitLab: You must know how to commit code, push changes, and manage branches, as pipelines are triggered by Git events (like a push to the main branch).
+2. Basic Scripting: Knowing basic Linux/Bash commands is essential because pipelines simply execute commands on a remote machine for you.
+3. Application Basics: Have a simple application ready (e.g., a basic Node.js, Python Flask, or HTML page) that includes at least one or two simple automated tests.
