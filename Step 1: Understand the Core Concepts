@@ -4,3 +4,6 @@ Continuous Integration (CI): The practice of automating the building and testing
 This catches bugs early before they reach production.
 Continuous Delivery / Deployment (CD): Taking the successfully tested code and automatically packaging it.
 Delivery prepares the code to be deployed at the click of a button.Deployment pushes it to live servers automatically without human intervention.
+
+
+[ Developer Pushes Code ] ──> [ CI: Auto Build & Test ] ──> [ CD: Auto Package & Deploy to Server ]
