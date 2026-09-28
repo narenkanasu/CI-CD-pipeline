@@ -1,0 +1,6 @@
+Step 1: Understand the Core Concepts
+Before writing any configuration files, you need to understand the problems CI/CD solves.
+Continuous Integration (CI): The practice of automating the building and testing of your code every time a developer commits a change. 
+This catches bugs early before they reach production.
+Continuous Delivery / Deployment (CD): Taking the successfully tested code and automatically packaging it.
+Delivery prepares the code to be deployed at the click of a button.Deployment pushes it to live servers automatically without human intervention.
